@@ -1,1 +1,1 @@
-print("protocol-core UPDATE2")
+print("protocol-core FIX2")

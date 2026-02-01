@@ -1,1 +1,0 @@
-print("protocol-core FIX2")
